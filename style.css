@@ -186,67 +186,66 @@ footer a:hover {
 }
 /*-----------------@media------------------*/
 @media (max-width: 800px) {
-h1 {
-  font-size: 28px;
-  width: 300px;
-}
-#all-projects {
-  width: 340px;
-}
-.project-row {
-  display: block;
-  margin-bottom: 0;
-}
-.project-tile {
-  margin-bottom: 40px;  
-}
-h4 {
-  font-size: 24px;
-  width: 350px;
-}
+  h1 {
+    font-size: 28px;
+    width: 300px;
+  }
+  #all-projects {
+    width: 340px;
+  }
+  .project-row {
+    display: block;
+    margin-bottom: 0;
+  }
+  .project-tile {
+    margin-bottom: 40px;  
+  }
+  h4 {
+    font-size: 24px;
+    width: 350px;
+  }
 }
 @media (max-width: 530px) {
-nav div{
-  width: 0;
-}
-nav ul {
-  width: 90vw;
-}
-#welcome-section {
-  height: 300px;
-  padding-top: 200px;
-}
-h1 {
-  font-size: 24px;
-  width: 245px;
-}
-h3 {
-  font-size: 18px;
-  width: 267px;
-  margin: 30px auto 0 auto;
-} 
-.project-pic {
-  width: 316px;
-  height: 170px;
-}
-#all-projects {
-  width: 320px;
-}
-#contacts-section {
-  height: 300px;
-  padding-top: 100px;
-}
-h4 {
-  font-size: 22px;
-  width: 320px;
-} 
-.contact-buttons {
-  padding: 40px 0;
-}
-.media-pic {
-  width: 75px;
-  height: 75px;
-  border-radius: 50%;
-  border: #e9e3f9 solid 2px;
-}
+  nav div{
+    width: 0;
+  }
+  nav ul {
+    width: 90vw;
+  }
+  #welcome-section {
+    padding-top: 200px;
+  }
+  h1 {
+    font-size: 24px;
+    width: 245px;
+  }
+  h3 {
+    font-size: 18px;
+    width: 267px;
+    margin: 30px auto 0 auto;
+  } 
+  .project-pic {
+    width: 316px;
+    height: 170px;
+  }
+  #all-projects {
+    width: 320px;
+  }
+  #contacts-section {
+    height: 300px;
+    padding-top: 100px;
+  }
+  h4 {
+    font-size: 22px;
+    width: 320px;
+  } 
+  .contact-buttons {
+    padding: 40px 0;
+  }
+  .media-pic {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: #e9e3f9 solid 2px;
+  }
 }
